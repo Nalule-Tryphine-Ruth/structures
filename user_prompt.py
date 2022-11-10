@@ -37,3 +37,14 @@ def user_prompt(name):
     
 user_prompt(Ruth)
 
+user_prompt(Tryphine)
+
+def user_prompt(age)
+   
+   print("What is your age?")
+ 
+   print("your age is:",age)
+
+user_prompt(19)
+   
+   
