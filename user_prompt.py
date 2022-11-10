@@ -36,6 +36,7 @@ def user_prompt(name):
    
     
 user_prompt(Ruth)
+
 user_prompt(Tryphine)
 
 def user_prompt(age)
