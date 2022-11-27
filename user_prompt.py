@@ -12,6 +12,7 @@ def user_prompt():
    print("Your name is:",name)
 
    print ("What is your age?")
+#prompts  user to enter age 
    age=int(input())
 
    print("Your age is :",age)
