@@ -6,6 +6,7 @@ def user_prompt():
     
     
    print("What is your name?")
+#prompts user to enter name 
    name=input()
 
    print("Your name is:",name)
