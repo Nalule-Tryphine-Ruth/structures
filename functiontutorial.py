@@ -6,6 +6,7 @@ print(name)
 if name=="":
     print("Please enter name")
 elif name ==name:
+#prints hello with entered name attached to it 
     print(f"Hello,{name}")
 else:
     print("Goodbye")
