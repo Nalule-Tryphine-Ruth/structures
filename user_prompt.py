@@ -28,6 +28,7 @@ user_prompt()
 
 
 def user_prompt(name):
+#the (name) is a parameter 
     
     
    print("What is your name?")
