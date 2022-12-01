@@ -37,7 +37,7 @@ def user_prompt(name):
    print("Your name is:",name)
 
    
-    
+#the parameter is given values Ruth and the other Tryphine    
 user_prompt(Ruth)
 
 user_prompt(Tryphine)
